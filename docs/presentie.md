@@ -2,6 +2,8 @@
 marp: true
 theme: uncover
 class: invert
+header: '![width:100px](img/footer.png)'
+footer: 'Dante Gallardo Ledon'
 ---
 
 # **SMTP**
@@ -52,23 +54,11 @@ class: invert
 
 ---
 
-# SMTP Beveiliging
-
-![bg](img/smtp-security.jpg)
-
----
-
 ### SMTP Beveiliging
 
 - SMTP kan beveiligd worden met behulp van SSL/TLS.
 - Dit zorgt voor versleuteling van de communicatie tussen de client en server.
 - Hierdoor worden gegevens zoals wachtwoorden en e-mailinhoud beschermd tegen afluisteren.
-
----
-
-# SMTP Alternatieven
-
-![bg](img/smtp-alternatives.jpg)
 
 ---
 
@@ -80,12 +70,6 @@ class: invert
 
 ---
 
-# SMTP Samenvatting
-
-![bg](img/smtp-summary.jpg)
-
----
-
 ### SMTP Samenvatting
 
 - SMTP is het protocol voor het verzenden van e-mails tussen servers.
@@ -93,6 +77,4 @@ class: invert
 - SMTP kan beveiligd worden met SSL/TLS.
 - Er zijn ook alternatieve protocollen zoals POP3 en IMAP.
 
----
 
-![bg](img/footer-image.jpg)
