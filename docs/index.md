@@ -7,6 +7,7 @@
 | [Gebruik](#Gebruik) |
 | [Verschil](#Verschil)    |
 |[Bronnen](SMPT1.md)|
+|[Presentatie](presentie.html)
 
 
 #### SMPT : Simple Mail Transfer Protocol
